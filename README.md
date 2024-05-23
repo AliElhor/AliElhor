@@ -4,11 +4,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alielhor/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ali-elhor/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ali@elhor.ca)
 </div>
-
-<img align="right" border-radius=100px src="profile.jpg" alt="Ali Elhor Profile Picture" height=300>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=5C5DE1&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;Passion+for+ML+%7C+Robotics+%7C+Neuroengineering;" alt="Typing SVG" /></a>
