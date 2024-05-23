@@ -1,5 +1,5 @@
 <h1 align="center">
-"Hello World!" I'm Jade Siu 👋
+"Hello World!" I'm Ali Elhor 👋
 </h1>
 
 <div align="center">
@@ -8,10 +8,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ali@elhor.ca)
 </div>
 
-<img align="right" border-radius=100px src="profile.jpg" alt="Jade Siu Profile Picture" height=300>
+<img align="right" border-radius=100px src="profile.jpg" alt="Ali Elhor Profile Picture" height=300>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=5C5DE1&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;ML+%7C+AR+%7C+Neuroengineering+Enthusiast;Full+Stack+Developer;Lifelong+Learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&pause=1000&color=5C5DE1&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;Passion+for+ML+%7C+Robotics+%7C+Neuroengineering;" alt="Typing SVG" /></a>
 </div>
 
 <hr>
@@ -19,10 +19,9 @@
 💻 Prev Software Developer @ Bank of Montreal
 👨‍💻 Studying as a Mechatronics Engineering Student @ University of Waterloo
 ⭐ Aspiring Machine Learning and Autonomous Robotics Engineer
-🔥 Passionate about Autonomous Robotics, VR/AR, and Neuroengineering
+🔥 Passionate about LLMs, AGI Development, Autonomous Robotics and Neuroengineering
 🔭 Currently working on LLMs and Personal Assistants
-🌱 Learning about Machine Learning and AR
-✅ Main Languages: Python, C++, JavaScript
+🌱 Learning about Machine Learning and Distributed Training
 
 
 <hr>
@@ -84,53 +83,4 @@ Tools and Platforms 🛠️
 
 </div>
 
-<hr>
 
-<h3 align="center">
-Experience and Projects 🚀
-</h3>
-
-- **Software Developer** @ Bank of Montreal (Jan 2024 - Apr 2024)
-  - Developed a chatbot interface using retrieval-augmented generation for real-time data retrieval and summarization, enhancing business analysis workflows by 500%.
-  - Leveraged OpenAI through LangChain for chat and embedding models, alongside continuous data upsertion to Pinecone vector indexes.
-  - Employed TensorFlow for neural network models and scikit-learn with boosting algorithms like XGBoost for predictive models on AWS Sagemaker.
-
-- **Controls Systems Software Developer** @ ATS Industrial Automation (May 2023 - Aug 2023)
-  - Developed a PLC program to bypass machine control production code of a nuclear reactor maintenance system using Siemens TIA Portal.
-  - Employed Machine Expert EcoStruxure and HMI displays to test a safety integration panel, ensuring robust performance.
-  - Conceptualized and executed the electrical design for a proof-of-principle safety box.
-
-- **Full-Stack E-Commerce Web Application**
-  - Designed and implemented an intuitive user interface using HTML, CSS, and JavaScript.
-  - Used Node.js for backend operations, integrated with Express.js middleware for route and API handling.
-  - Integrated MySQL for data storage with database schemas and SQL queries.
-
-- **Toyota Innovation Challenge**
-  - Developed a computer vision model for detecting the presence of holes and stickers in a manufacturer car engine using OpenCV and V7 Darwin.
-  - Trained a dataset of pre-processed and segmented images with Ultralytics YOLOv8 object detection model.
-
-- **Namely** | PyTorch
-  - Developed a character-level name generator using neural networks inspired by DeepMind’s WaveNet.
-
-- **Mini-Shakespeare** | PyTorch
-  - Developed a from-scratch transformer model to generate Shakespeare-like text.
-
-<hr>
-
-<h3 align="center">
-Education 🎓
-</h3>
-
-- **BASc in Mechatronics Engineering** @ University of Waterloo (Expected April 2027)
-  - Relevant Courses: Intro to Computer Structures & Real-Time Systems, Linear Systems & Signals, Data Structures & Algorithms
-
-<hr>
-
-<h3 align="center">
-Connect with Me 🌐
-</h3>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alielhor/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ali
