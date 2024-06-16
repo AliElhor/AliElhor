@@ -72,6 +72,7 @@ Tools and Platforms 🛠️
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-%230A0FFF.svg?style=for-the-badge&logo=Cohere&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=Jira&logoColor=white)
