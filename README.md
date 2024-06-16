@@ -73,7 +73,7 @@ Tools and Platforms 🛠️
 ![LangChain](https://img.shields.io/badge/LangChain-%23FFFFFF.svg?style=for-the-badge&logo=LangChain&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-%23430098.svg?style=for-the-badge&logo=Cohere&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23036CB5.svg?style=for-the-badge&logo=Confluence&logoColor=white)
