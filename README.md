@@ -15,10 +15,10 @@
 <hr>
 
 💻 ML Developer @ Bank of Montreal<br>
-👨‍💻 Studying as a Mechatronics Engineering Student @ University of Waterloo
-⭐ Aspiring Machine Learning and Autonomous Robotics Engineer
-🔥 Passionate about LLMs, AGI Development, Autonomous Robotics and Neuroengineering
-🔭 Currently working on LLMs, and Reinforcement Learning for Stock Portfolio Optimization and Autonomous Humanoids
+👨‍💻 Studying as a Mechatronics Engineering Student @ University of Waterloo<br>
+⭐ Aspiring Machine Learning and Autonomous Robotics Engineer<br>
+🔥 Passionate about LLMs, AGI Development, Autonomous Robotics and Neuroengineering<br>
+🔭 Currently working on LLMs, and Reinforcement Learning for Stock Portfolio Optimization and Autonomous Humanoids<br>
 🌱 Learning about Machine Learning and Distributed Training
 
 
