@@ -14,7 +14,7 @@
 
 <hr>
 
-💻 Prev ML Engineer @ AutomaxAI<br>
+💻 Incoming AI Research Inter @ HeyGen<br>
 👨‍💻 Studying as a Mechatronics Engineering Student @ University of Waterloo<br>
 ⭐ Aspiring Machine Learning and Autonomous Robotics Engineer<br>
 🔥 Passionate about LLMs, AGI Development, Autonomous Robotics and Neuroengineering<br>
